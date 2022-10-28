@@ -1,11 +1,8 @@
-### Hi there 👋, I'm Miriam Wangari
+### Hi there 👋, I'm Miriam Wangari, a passionate Data Scientist based in Nairobi, Kenya.
 
-<!--
-A passionate Data Scientist based in Nairobi, Kenya.
+<!-- **WangariNgomi/WangariNgomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-**WangariNgomi/WangariNgomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning Python for data science
 - 👯 I’m looking to collaborate on data science projects
