@@ -7,7 +7,7 @@
 [![https://github.com/WangariNgomi/WangariNgomi](https://github.com/WangariNgomi/WangariNgomi/Git-Social/blob/master/Icons/Github.png (Github))][1]
 
 <!-- To Link your profile to the media buttons -->
-[1]: https://www.github.com/WangariNgomi
+[1]
 
 
 I am motivated by the power of technology as a tool for innovation.                                              
