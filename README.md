@@ -9,6 +9,11 @@ I am motivated by the power of technology as a tool for innovation.
 
 
 ## Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,r,vscode,tensorflow,,stackoverflow,sqlite" />
+  </a>
+</p>
 
 
 
