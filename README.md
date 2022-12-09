@@ -4,16 +4,12 @@
 
 I am motivated by the power of technology as a tool for innovation.                                              
 
-## Projects
-
 
 
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,py,r,vscode,tensorflow,stackoverflow,sqlite)](https://skillicons.dev)
 
 
-## Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
 
 
 
