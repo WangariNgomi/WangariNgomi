@@ -4,8 +4,7 @@
 
 </a>
 <ahref="https://www.linkedin.com/in/miriam-wangari-n-2883b512b/">
-<imgalign = "left" alt = "LinkedIn"width= "22px"
-src = "https://raw.githubusercontent.com/WangariNgomi/WangariNgomi/tree/main/assets/linkedin.svg"
+<imgalign = "left" alt = "LinkedIn"width= "22px" src = "https://raw.githubusercontent.com/WangariNgomi/WangariNgomi/tree/main/assets/linkedin.svg"/>
 </a>
 
 I am motivated by the power of technology as a tool for innovation.                                              
