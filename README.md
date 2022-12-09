@@ -3,6 +3,8 @@
 I am motivated by the power of technology as a tool for innovation.
 
 
+![My Skills](https://skillicons.dev/icons?i=py,git,github,py,mysql,r,sqlite,stackoverflow,tensorflow,vscode)
+
 
 
 
